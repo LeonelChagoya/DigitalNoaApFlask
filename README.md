@@ -1,5 +1,5 @@
 # service-template
-# Pedro Ferrusca
+#hugo chagoya
 # A common template to start a web app service using flask or fast api frameworks.
 # Feel free to edit everything you might see useful.
 
